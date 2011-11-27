@@ -1,0 +1,12 @@
+This is a basic implementation of Tetris in Java.
+I wrote it back when I was learning Java.
+I am no longer maintaining it, so I put it here for anyone to use.
+
+To compile:
+$ javac MyFrame.java
+
+To run:
+$ java MyFrame
+
+All of the source codes are distributed under FreeBSD license.
+
